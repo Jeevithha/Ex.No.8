@@ -63,20 +63,6 @@ Purpose: Use structured templates or syntax to improve control.
 #### Outcome:
 Promotes modular, reusable prompting in experiments.
 
-### E. Chain-of-Thought Prompting
-Purpose: Simulate planning or breakdown of audio features.
-
-#### Example for music generation:
-"First, a soft piano intro, then a slow build-up with strings, ending with a gentle fade-out using synth pads."
-
-#### Outcome: 
-Helpful for multi-part audio compositions and storytelling.
-
-### F. Negative Prompting
-Purpose: Specify what not to include.
-
-#### Example:
-"Generate upbeat jazz music with no drums or electronic instruments."
 
 #### Outcome:
 Reduces unwanted audio features; improves precision.
