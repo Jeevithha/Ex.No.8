@@ -49,9 +49,6 @@ Purpose: Provide direct commands or instructions for the model.
 #### Outcome: 
 Effective in models trained with instruction-tuned data.
 
-### D. Structured Prompting
-Purpose: Use structured templates or syntax to improve control.
-
 #### Example:
 ```
 
@@ -63,6 +60,8 @@ Purpose: Use structured templates or syntax to improve control.
 #### Outcome:
 Promotes modular, reusable prompting in experiments.
 
+#### prompt generate image: 
+"A man indha city cool pic"
 
 #### Outcome:
 Reduces unwanted audio features; improves precision.
@@ -101,7 +100,7 @@ Control: Are specified audio attributes properly handled?
 
 ## Gdrive link:
 
-https://drive.google.com/drive/folders/1RSvPZx1k0oEFzIheJYhlRWTxNH7EW8nD?usp=sharing
+https://drive.google.com/drive/folders/1qY2Svq9LnYHwA4vC_mABudqte1FjhB04
 
 ## RESULT:
 Thus, the experiment successfully explored various prompting techniques for generating nature soundscapes, proving that detailed, context-aware prompts significantly enhance the quality and realism of the generated audio. Iterative refinement and leveraging tool strengths led to immersive, high-quality results tailored to natural themes.
